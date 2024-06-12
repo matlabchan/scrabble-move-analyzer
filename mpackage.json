@@ -1,7 +1,7 @@
 {
     "id": 'c7af8847-436a-468e-a755-87702fa54e08',
-    "name": 'mathworks',
-    "version": '3.4.5.6',
+    "name": 'scrabble_toolbox',
+    "version": '3.0.0',
     "displayName": 'Scrabble Toolbox',
     "summary": 'Best move analysis for Scrabble',
     "provider": 'Tyler Boardman',
