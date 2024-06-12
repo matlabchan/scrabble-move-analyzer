@@ -1,0 +1,25 @@
+{
+    "id": 'c7af8847-436a-468e-a755-87702fa54e08',
+    "name": 'scrabble_toolbox',
+    "version": '2.0.0',
+    "displayName": 'Scrabble Toolbox',
+    "summary": 'Best move analysis for Scrabble',
+    "provider": 'Tyler Boardman',
+    "dependencies": [],
+    "mw": {
+        "addons": {
+            "compatibility": {
+                "releases": '>=R2022a',
+                "platforms": ['win64', 'maci64', 'maca64', 'ml_online']
+            }
+        },
+        "fileexchange": {
+            "description": {
+                "content_type": 'text/markdown',
+                "filePath": './README.md'
+            },
+            "tags": ['scrabble', 'games']
+        }
+    },
+    "schemaVersion": '1.0.0'
+}

@@ -1,4 +1,4 @@
-classdef DefaultStrategy
+classdef AdvancedStrategy
    properties
        board
        tiles
@@ -6,7 +6,7 @@ classdef DefaultStrategy
    methods
        function m = getBestMove(returnPoints)
            if returnPoints
-               m = 'Points: 10';
+               m = 'Points: 30';
            else
                m = 'No moves detected';
            end
