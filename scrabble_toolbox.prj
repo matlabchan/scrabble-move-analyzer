@@ -7,7 +7,7 @@
     <param.summary>Best move analysis for Scrabble</param.summary>
     <param.description>This toolbox provides a way to determine the best move given a board and tile rack</param.description>
     <param.screenshot>${PROJECT_ROOT}/scrabble_thumbnail.jpg</param.screenshot>
-    <param.version>1.0.0</param.version>
+    <param.version>2.0.0</param.version>
     <param.output>${PROJECT_ROOT}/scrabble_toolbox.mltbx</param.output>
     <param.products.name />
     <param.products.id />
@@ -82,10 +82,12 @@
     </fileset.rootdir>
     <fileset.rootfiles>
       <file>${PROJECT_ROOT}/.git</file>
+      <file>${PROJECT_ROOT}/AdvancedStrategy.m</file>
       <file>${PROJECT_ROOT}/DefaultStrategy.m</file>
       <file>${PROJECT_ROOT}/README.md</file>
       <file>${PROJECT_ROOT}/README.mlx</file>
       <file>${PROJECT_ROOT}/Strategy.m</file>
+      <file>${PROJECT_ROOT}/mpackage.json</file>
       <file>${PROJECT_ROOT}/scrabble_thumbnail.jpg</file>
     </fileset.rootfiles>
     <fileset.depfun.included />
