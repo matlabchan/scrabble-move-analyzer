@@ -11,5 +11,9 @@ classdef DefaultStrategy
                m = 'No moves detected';
            end
        end
+
+       function w = getNumberOfWordsForTiles(tiles)
+           w = tiles^3;
+       end
    end
 end
