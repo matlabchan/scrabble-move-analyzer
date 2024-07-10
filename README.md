@@ -1,4 +1,4 @@
-# Scrabble Toolbox
+# Scrabble Move Analyzer
 Best move analysis for Scrabble
 
 ## Understanding the basic of scrabble
