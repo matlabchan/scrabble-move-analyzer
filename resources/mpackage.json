@@ -1,0 +1,196 @@
+{
+    "name": "scrabble_move_analyzer",
+    "version": "2.0.1",
+    "id": "51c34a76-1d7a-4039-b164-38e5648fba0b",
+    "formerNames": [
+        ""
+    ],
+    "displayName": "Scrabble Move Analyzer",
+    "summary": "Best move analysis for Scrabble",
+    "description": "",
+    "provider": {
+        "name": "",
+        "organization": "",
+        "email": "",
+        "url": ""
+    },
+    "folders": [
+        {
+            "path": ".git"
+        },
+        {
+            "path": ".git/hooks"
+        },
+        {
+            "path": ".git/info"
+        },
+        {
+            "path": ".git/logs"
+        },
+        {
+            "path": ".git/logs/refs"
+        },
+        {
+            "path": ".git/logs/refs/heads"
+        },
+        {
+            "path": ".git/logs/refs/remotes"
+        },
+        {
+            "path": ".git/logs/refs/remotes/origin"
+        },
+        {
+            "path": ".git/objects"
+        },
+        {
+            "path": ".git/objects/02"
+        },
+        {
+            "path": ".git/objects/04"
+        },
+        {
+            "path": ".git/objects/06"
+        },
+        {
+            "path": ".git/objects/07"
+        },
+        {
+            "path": ".git/objects/09"
+        },
+        {
+            "path": ".git/objects/11"
+        },
+        {
+            "path": ".git/objects/13"
+        },
+        {
+            "path": ".git/objects/23"
+        },
+        {
+            "path": ".git/objects/24"
+        },
+        {
+            "path": ".git/objects/25"
+        },
+        {
+            "path": ".git/objects/26"
+        },
+        {
+            "path": ".git/objects/2e"
+        },
+        {
+            "path": ".git/objects/38"
+        },
+        {
+            "path": ".git/objects/3b"
+        },
+        {
+            "path": ".git/objects/41"
+        },
+        {
+            "path": ".git/objects/43"
+        },
+        {
+            "path": ".git/objects/48"
+        },
+        {
+            "path": ".git/objects/4e"
+        },
+        {
+            "path": ".git/objects/53"
+        },
+        {
+            "path": ".git/objects/56"
+        },
+        {
+            "path": ".git/objects/5c"
+        },
+        {
+            "path": ".git/objects/5d"
+        },
+        {
+            "path": ".git/objects/5e"
+        },
+        {
+            "path": ".git/objects/65"
+        },
+        {
+            "path": ".git/objects/6a"
+        },
+        {
+            "path": ".git/objects/71"
+        },
+        {
+            "path": ".git/objects/89"
+        },
+        {
+            "path": ".git/objects/95"
+        },
+        {
+            "path": ".git/objects/9e"
+        },
+        {
+            "path": ".git/objects/a4"
+        },
+        {
+            "path": ".git/objects/a8"
+        },
+        {
+            "path": ".git/objects/ab"
+        },
+        {
+            "path": ".git/objects/bd"
+        },
+        {
+            "path": ".git/objects/c1"
+        },
+        {
+            "path": ".git/objects/d0"
+        },
+        {
+            "path": ".git/objects/dc"
+        },
+        {
+            "path": ".git/objects/e1"
+        },
+        {
+            "path": ".git/objects/e2"
+        },
+        {
+            "path": ".git/objects/e3"
+        },
+        {
+            "path": ".git/objects/e5"
+        },
+        {
+            "path": ".git/objects/eb"
+        },
+        {
+            "path": ".git/objects/f3"
+        },
+        {
+            "path": ".git/objects/info"
+        },
+        {
+            "path": ".git/objects/pack"
+        },
+        {
+            "path": ".git/refs"
+        },
+        {
+            "path": ".git/refs/heads"
+        },
+        {
+            "path": ".git/refs/remotes"
+        },
+        {
+            "path": ".git/refs/remotes/origin"
+        },
+        {
+            "path": ".git/refs/tags"
+        }
+    ],
+    "dependencies": [],
+    "releaseCompatibility": ">=R2022a",
+    "schemaVersion": "1.0.0"
+}
